@@ -1,3 +1,5 @@
+"""Ниже каждое задание отедально"""
+
 # First task
 
 my_tuple = (1, 2, 3, 'Hello', True, False, 1.231)
