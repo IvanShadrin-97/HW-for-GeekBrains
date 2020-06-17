@@ -1,6 +1,6 @@
 # Fourth task
 
-words = str(input('Ведите любое предложение:'))
+words = input('Ведите любое предложение:')
 
 number_of_words = 0
 for k in words.split(' '):
